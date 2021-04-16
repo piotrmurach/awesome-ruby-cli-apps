@@ -43,6 +43,7 @@ Do you know an awesome Ruby CLI app? Great. Contribute it to the list! But first
 
 ### Code Quality
 
+- [git-lint](https://www.alchemists.io/projects/git-lint) - Ensures a clean, easy to read, debuggable, and maintainable Git commit history.
 - [flay](https://github.com/seattlerb/flay) - Analyzes code for structural similarities.
 - [flog](https://github.com/seattlerb/flog) - Reports the most tortured/complex code.
 - [rails_best_practices](https://github.com/flyerhzm/rails_best_practices) - Checks the quality of Rails code.
