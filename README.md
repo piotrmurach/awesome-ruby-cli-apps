@@ -120,6 +120,7 @@ Do you know an awesome Ruby CLI app? Great. Contribute it to the list! But first
 
 ### Release
 
+- [bump](https://github.com/gregorym/bump) - Increments the version number of a gem and a chef-cookbook.
 - [fastlane](https://github.com/fastlane/fastlane) - Automates building and releasing iOS and Android apps.
 - [fpm](https://github.com/jordansissel/fpm) - Builds packages such as rpms, debs, OSX packages, etc.
 - [ocra](https://github.com/larsch/ocra/) - Builds Windows executables from source code.
