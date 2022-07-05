@@ -62,6 +62,7 @@ Do you know an awesome Ruby CLI app? Great. Contribute it to the list! But first
 ### Database
 
 - [lol_dba](https://github.com/plentz/lol_dba) - Scans your Rails application for missing indexes.
+- [pgslice](https://github.com/ankane/pgslice) - Partitions Postgres tables.
 - [pgsync](https://github.com/ankane/pgsync) - Syncs data from one Postgres database to another.
 - [squasher](https://github.com/jalkoby/squasher) - Compresses old Rails migrations into a single migration.
 
