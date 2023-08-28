@@ -141,6 +141,7 @@ Do you know an awesome Ruby CLI app? Great. Contribute it to the list! But first
 - [brakeman](https://github.com/presidentbeef/brakeman) - Scans Rails applications for security vulnerabilities.
 - [bundler-audit](https://github.com/rubysec/bundler-audit) - Audits a project's Gemfile.lock for vulnerable gems and insecure gem sources.
 - [pws](https://github.com/janlelis/pws) - Provides a secure password safe.
+- [wpscan](https://github.com/wpscanteam/wpscan) - Scans WordPress websites for security vulnerabilities.
 
 ### Third-party APIs
 
