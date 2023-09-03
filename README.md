@@ -81,6 +81,7 @@ Do you know an awesome Ruby CLI app? Great. Contribute it to the list! But first
 
 - [annotate](https://github.com/ctran/annotate_models) - Comments Rails models with database schema information.
 - [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Generates a changelog from tags, issues, labels and pull requests on GitHub.
+- [jazzy](https://github.com/realm/jazzy) - Generates documentation for Objective-C or Swift applications.
 - [pliny](https://github.com/interagent/pliny) - Generates endpoints, models, schemas and other APIs.
 - [sord](https://github.com/AaronC81/sord) - Generates RBI and RBS type signature files from YARD documentation.
 - [tty](https://github.com/piotrmurach/tty) - Generates a new application and commands in a gem directory structure.
