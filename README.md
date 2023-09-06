@@ -61,6 +61,7 @@ Do you know an awesome Ruby CLI app? Great. Contribute it to the list! But first
 
 ### Database
 
+- [database_consistency](https://github.com/djezzzl/database_consistency) - Checks database constraints for consistency with Rails model validations.
 - [lol_dba](https://github.com/plentz/lol_dba) - Scans your Rails application for missing indexes.
 - [pgdexter](https://github.com/ankane/dexter) - Creates Postgres indexes based on query analysis.
 - [pgslice](https://github.com/ankane/pgslice) - Partitions Postgres tables.
