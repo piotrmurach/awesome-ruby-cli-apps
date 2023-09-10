@@ -36,6 +36,7 @@ Do you know an awesome Ruby CLI app? Great. Contribute it to the list! But first
 ### Automation
 
 - [danger](https://github.com/danger/danger) - Automates team's conventions surrounding code review.
+- [git-pr-release](https://github.com/x-motemen/git-pr-release) - Creates a release pull request from production-ready branches.
 - [git_reflow](https://github.com/reenhanced/gitreflow) - Automatically creates pull requests and ensures code review process.
 - [guard](https://github.com/guard/guard) - Automates tasks based on file or directory modifications.
 - [overcommit](https://github.com/sds/overcommit) - Automates management and configuration of [Git hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks).
