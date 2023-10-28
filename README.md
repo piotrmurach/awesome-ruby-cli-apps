@@ -99,6 +99,7 @@ Do you know an awesome Ruby CLI app? Great. Contribute it to the list! But first
 - [csvlint](https://github.com/Data-Liberation-Front/csvlint.rb) - Validates CSV files.
 - [erblint](https://github.com/Shopify/erb-lint) - Lints ERB or HTML files.
 - [haml-lint](https://github.com/sds/haml-lint) - Keeps HAML files clean and readable.
+- [jsonlint](https://github.com/dougbarth/jsonlint) - Lints JSON files.
 - [markdownlint](https://github.com/markdownlint/markdownlint) - Lints Markdown files.
 - [puppet-lint](https://github.com/rodjek/puppet-lint) - Checks Puppet manifests conformity with the style guide.
 - [scss-lint](https://github.com/sds/scss-lint) - Lints SCSS files.
