@@ -158,6 +158,7 @@ Do you know an awesome Ruby CLI app? Great. Contribute it to the list! But first
 
 ### Workflow
 
+- [doing](https://github.com/ttscoff/doing) - Manages a plain text to-do list in the TaskPaper format.
 - [gitsh](https://github.com/thoughtbot/gitsh) - Runs an interactive shell for git.
 - [octodown](https://github.com/ianks/octodown) - Previews GitHub flavoured Markdown.
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Creates and manages tmux sessions.
