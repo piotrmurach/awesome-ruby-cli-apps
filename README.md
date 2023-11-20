@@ -162,6 +162,7 @@ Do you know an awesome Ruby CLI app? Great. Contribute it to the list! But first
 - [git_fame](https://github.com/oleander/git-fame-rb) - Displays contribution statistics for git repository collaborators.
 - [gitsh](https://github.com/thoughtbot/gitsh) - Runs an interactive shell for git.
 - [octodown](https://github.com/ianks/octodown) - Previews GitHub flavoured Markdown.
+- [textbringer](https://github.com/shugo/textbringer) - Runs Emacs-like text editor.
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Creates and manages tmux sessions.
 
 ## License
